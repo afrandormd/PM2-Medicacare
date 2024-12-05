@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640667959984",
+    "project_id": "pm2-medicacare-1b79c",
+    "storage_bucket": "pm2-medicacare-1b79c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640667959984:android:45727cfeae0f4f4f1e3175",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP01Oi2Y0RMAnaXxatVZGpSP04ck2r8E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
